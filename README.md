@@ -28,6 +28,6 @@ This repo contains my solutions for August LeetCoding challenge 2020
 - [x] Day 26
 - [ ] Day 27
 - [x] Day 28
-- [ ] Day 29
+- [x] Day 29
 - [ ] Day 30
 - [ ] Day 31
